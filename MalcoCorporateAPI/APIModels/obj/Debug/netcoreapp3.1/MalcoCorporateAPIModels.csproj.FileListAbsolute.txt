@@ -1,0 +1,12 @@
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\bin\Debug\netcoreapp3.1\MalcoCorporateAPIModels.deps.json
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\bin\Debug\netcoreapp3.1\MalcoCorporateAPIModels.dll
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\obj\Debug\netcoreapp3.1\MalcoCorporateAPIModels.AssemblyInfoInputs.cache
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\obj\Debug\netcoreapp3.1\MalcoCorporateAPIModels.AssemblyInfo.cs
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\bin\Debug\netcoreapp3.1\MalcoCorporateAPIModels.pdb
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\obj\Debug\netcoreapp3.1\MalcoCorporateAPIModels.dll
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\obj\Debug\netcoreapp3.1\MalcoCorporateAPIModels.pdb
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\bin\Debug\netcoreapp3.1\MalcoCorporateAPIModels.runtimeconfig.json
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\bin\Debug\netcoreapp3.1\MalcoCorporateAPIModels.runtimeconfig.dev.json
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\obj\Debug\netcoreapp3.1\MalcoCorporateAPIModels.genruntimeconfig.cache
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\obj\Debug\netcoreapp3.1\MalcoCorporateAPIModels.csproj.CoreCompileInputs.cache
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIModels\obj\Debug\netcoreapp3.1\MalcoCorporateAPIModels.csprojAssemblyReference.cache

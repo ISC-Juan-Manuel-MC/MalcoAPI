@@ -1,0 +1,12 @@
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\bin\Debug\netcoreapp3.1\MalcoCorporateFramawork.deps.json
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\bin\Debug\netcoreapp3.1\MalcoCorporateFramawork.dll
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.csprojAssemblyReference.cache
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.AssemblyInfoInputs.cache
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.AssemblyInfo.cs
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\bin\Debug\netcoreapp3.1\MalcoCorporateFramawork.runtimeconfig.json
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\bin\Debug\netcoreapp3.1\MalcoCorporateFramawork.runtimeconfig.dev.json
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\bin\Debug\netcoreapp3.1\MalcoCorporateFramawork.pdb
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.dll
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.pdb
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.genruntimeconfig.cache
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.csproj.CoreCompileInputs.cache
