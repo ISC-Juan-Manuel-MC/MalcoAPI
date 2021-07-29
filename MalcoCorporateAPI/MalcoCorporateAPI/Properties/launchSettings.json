@@ -22,7 +22,7 @@
       "launchBrowser": true,
       "launchUrl": "api/profile",
       "environmentVariables": {
-        "EmailPassword": "",
+        "EmailPassword": "xkyono1990",
         "Email": "isc.juan.manuel.m.c@gmail.com",
         "EmailSecureConnection": "true",
         "EmailPort": "465",

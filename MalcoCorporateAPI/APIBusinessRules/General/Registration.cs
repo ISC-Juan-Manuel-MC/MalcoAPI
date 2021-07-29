@@ -57,8 +57,8 @@ namespace APIBusinessRules.General
 
         public Profile Save(Email.Configuration Config)
         {
-            Email.SendWelcomeEmail(Config, this.UserProfile.Person.FullName, this.UserProfile.Email);
             Profile Entity = this.DAOEntity.Save(this.UserProfile);
+            Email.SendWelcomeEmail(Config, this.UserProfile.Person.FullName, this.UserProfile.Email);
 
             return Entity;
         }

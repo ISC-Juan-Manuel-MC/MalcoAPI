@@ -14,8 +14,8 @@ namespace APIModels.General
         public string ID { get; set; }
         [Required]
         public string FullName { get; set; }
-        [Timestamp]
         [Required]
+        [Column("Birthday")]
         public DateTime Birthday { get; set; }
         [Phone]
         [Required]
