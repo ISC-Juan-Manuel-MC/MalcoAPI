@@ -2,16 +2,17 @@
 using MalcoCorporateAPIBusinessRules;
 using MalcoCorporateAPIBusinessRules.General;
 using MalcoCorporateAPIModels;
+using MalcoCorporateFramawork.Generics;
 using MalcoCorporateFramawork.Validations;
 using System;
 
 namespace APIBusinessRules.General
 {
-    public class Registration: BusinessRules<Profile>
+    public class Registration : BusinessRules<Profile>
     {
         private Profile UserProfile = null;
 
-        public Registration(Profile Profile):base()
+        public Registration(Profile Profile) : base()
         {
             this.UserProfile = Profile;
             LoadDefaultRules();
@@ -33,7 +34,7 @@ namespace APIBusinessRules.General
 
             this.Rules.Add(Validator.GetRuleStringNotNull(this.UserProfile.Password,
                                                           "Contraseña"));
-            this.Rules.Add(Validator.GetRuleStringRequired(this.UserProfile.Password, 
+            this.Rules.Add(Validator.GetRuleStringRequired(this.UserProfile.Password,
                                                            "Contraseña"));
 
         }
@@ -43,7 +44,7 @@ namespace APIBusinessRules.General
             this.Rules.Add(Validator.GetRuleStringNotNull(this.UserProfile.Person.FullName,
                                                           "Nombre completo"));
 
-            this.Rules.Add(Validator.GetRuleStringRequired(this.UserProfile.Person.FullName, 
+            this.Rules.Add(Validator.GetRuleStringRequired(this.UserProfile.Person.FullName,
                                                            "Nombre completo"));
 
             this.Rules.Add(Validator.GetRuleStringNotNull(this.UserProfile.Person.Cellphone,
@@ -54,9 +55,12 @@ namespace APIBusinessRules.General
             this.Rules.Add(Validator.GetRuleNotIsAdult(this.UserProfile.Person.Birthday));
         }
 
-        public Profile Save()
+        public Profile Save(Email.Configuration Config)
         {
-            return this.DAOEntity.Save(this.UserProfile);
+            Email.SendWelcomeEmail(Config, this.UserProfile.Person.FullName, this.UserProfile.Email);
+            Profile Entity = this.DAOEntity.Save(this.UserProfile);
+
+            return Entity;
         }
 
         public Profile Update()

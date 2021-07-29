@@ -177,3 +177,6 @@ D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateAP
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateAPI\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateAPI\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateAPI\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll

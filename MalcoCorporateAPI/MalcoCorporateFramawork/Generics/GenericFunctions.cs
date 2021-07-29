@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity.Core.Objects;
+using System.IO;
 using System.Text;
 
 namespace MalcoCorporateFramawork.Generics
@@ -35,5 +36,21 @@ namespace MalcoCorporateFramawork.Generics
         {
             return Guid.NewGuid().ToString();
         }
+    
+        public static string GetStringFromFile(string FilePath)
+        {
+            if (!File.Exists(FilePath))
+            {
+                throw new FileNotFoundException();
+            }
+
+            return File.ReadAllText(FilePath);
+        }
+
+        public static string ReplaceText(string Text, string OldText, string NewText)
+        {
+            return Text.Replace(OldText, NewText);
+        }
+
     }
 }

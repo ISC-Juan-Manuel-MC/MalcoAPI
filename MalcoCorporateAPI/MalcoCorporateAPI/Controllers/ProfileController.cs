@@ -17,11 +17,13 @@ namespace MalcoCorporateAPI.Controllers
     [ApiController]
     public class ProfileController : ControllerBase
     {
-        DBConnection Context;
+        readonly DBConnection Context;
+        readonly Email.Configuration Config = null;
 
         public ProfileController():base()
         {
             this.Context = new DBConnection();
+            this.Config = Constants.GetNewEmailConfiguration();
         }
 
         // GET: api/<ProfileController>
@@ -73,7 +75,7 @@ namespace MalcoCorporateAPI.Controllers
                 Registration BRRegistration = new Registration(NewEntity);
                 if (BRRegistration.IsValid())
                 {
-                    BRRegistration.Save();
+                    BRRegistration.Save(Config);
                     return Ok(BRRegistration.GetUserProfileAnalized());
                 }
                 else

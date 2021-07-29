@@ -10,3 +10,5 @@ D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFr
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.pdb
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.genruntimeconfig.cache
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.csproj.CoreCompileInputs.cache
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.Properties.Resources.resources
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\MalcoCorporateFramawork\obj\Debug\netcoreapp3.1\MalcoCorporateFramawork.csproj.GenerateResource.cache

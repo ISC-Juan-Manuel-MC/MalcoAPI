@@ -180,6 +180,10 @@
             "EntityFramework": {
               "target": "Package",
               "version": "[6.4.4, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.13.0, )"
             }
           },
           "imports": [

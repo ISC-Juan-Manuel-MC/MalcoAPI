@@ -6,7 +6,6 @@ D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.csprojAssemblyReference.cache
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.AssemblyInfoInputs.cache
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.AssemblyInfo.cs
-D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.csproj.CoreCompileInputs.cache
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.csproj.CopyComplete
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.dll
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.pdb
@@ -15,3 +14,4 @@ D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\bin\Debug\netcoreapp3.1\MalcoCorporateFramawork.dll
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\bin\Debug\netcoreapp3.1\MalcoCorporateFramawork.pdb
 D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.genruntimeconfig.cache
+D:\MalCoCorporate\Proyectos\CorporateAPI\Code\MalcoCorporateAPI\APIBusinessRules\obj\Debug\netcoreapp3.1\MalcoCorporateAPIBusinessRules.csproj.CoreCompileInputs.cache

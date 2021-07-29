@@ -22,7 +22,12 @@
       "launchBrowser": true,
       "launchUrl": "api/profile",
       "environmentVariables": {
-        "ENVIRONMENT_DEV": "Development"
+        "EmailPassword": "",
+        "Email": "isc.juan.manuel.m.c@gmail.com",
+        "EmailSecureConnection": "true",
+        "EmailPort": "465",
+        "ENVIRONMENT_DEV": "Development",
+        "EmailServer": "smtp.gmail.com"
       },
       "applicationUrl": "https://localhost:5001;http://localhost:5000"
     },
