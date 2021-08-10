@@ -15,10 +15,10 @@ namespace APIModels.General
         [Required]
         public string Password { get; set; }
         [Required]
-        public string PersonID { get; set; }
+        public Guid PersonID { get; set; }
         [Required]
         [Column("AvatarElectronicFileId")]
-        public string AvatarID { get; set; }
+        public Guid AvatarID { get; set; }
         [Required]
         public int Status { get; set; }
         [Required]
@@ -37,6 +37,7 @@ namespace APIModels.General
         public Profile()
         {
             this.Status = (int) STATUS.NEW;
+            this.Person = new Person();
         }
 
 

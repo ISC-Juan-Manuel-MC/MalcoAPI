@@ -32,9 +32,9 @@ namespace MalcoCorporateFramawork.Generics
             return System.Text.Json.JsonSerializer.Deserialize<T>(JSON);
         }
 
-        public static string GetNewUUID()
+        public static Guid GetNewUUID()
         {
-            return Guid.NewGuid().ToString();
+            return Guid.NewGuid();
         }
     
         public static string GetStringFromFile(string FilePath)

@@ -11,7 +11,7 @@ namespace APIModels.General
     {
         [Key]
         [Column("PersonId")]
-        public string ID { get; set; }
+        public Guid ID { get; set; }
         [Required]
         public string FullName { get; set; }
         [Required]
